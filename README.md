@@ -26,7 +26,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 <h2 align="center">💻 How To Run 💻</h2>
 
-- Download RStudio.
+- Download RStudio [here](https://posit.co/download/rstudio-desktop/).
 - Download this repository.
 - Open the RStudio and choose the ReportCode.R file to run.
 - You can run the code step by step by clicking Ctrl + Enter at the line of code you want to execute
