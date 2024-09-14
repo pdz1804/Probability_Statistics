@@ -7,7 +7,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 <br />
 <br />
 
-<img src="https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoasang.png" alt="logo" style="width: 400px; height: auto; align: center;">
+<img src="https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoasang.png" alt="logo" style="width: 550px; height: auto; align: center;">
 
 **Probability and Statistics / Semester 232**
 <br/>
